@@ -3,7 +3,7 @@
 This repository contains the Spring Boot Maven Project for the Payconiq Stock Application assignment.
 
 
-Assignment Details:
+## Assignment Details:
 
 Assignment - Backend Developer Application. To create a java based backend application using REST. It should contain the following endpoints;  
 
@@ -25,14 +25,14 @@ Implementation Treat this application as a real MVP that should go to producti
 Merge request Provide us with a merge request to master of this repository.
 
 
-Frameworks used:
+## Frameworks used:
 
 Spring Boot for writing BackEnd REST API.
 Maven Project Structure.
 Angular JS for writing Frond End Web Page.
 Bootstrap for UI Stylesheets.
 
-Steps to run the application:
+## Steps to run the application:
 
 Import and Build the Maven Project in IDE.
 Update Maven Project.
