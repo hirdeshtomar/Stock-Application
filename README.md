@@ -23,3 +23,18 @@ NOTE: Please do not use a generator (like yeoman)
 Implementation Treat this application as a real MVP that should go to production.  
 
 Merge request Provide us with a merge request to master of this repository.
+
+
+Frameworks used:
+
+Spring Boot for writing BackEnd REST API.
+Maven Project Structure.
+Angular JS for writing Frond End Web Page.
+Bootstrap for UI Stylesheets.
+
+Steps to run the application:
+
+Import and Build the Maven Project in IDE.
+Update Maven Project.
+Build and Run as Java Application.
+Open Browser and Go TO: http://localhost:8080/index.html
