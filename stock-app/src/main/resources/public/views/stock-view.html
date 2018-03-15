@@ -1,0 +1,27 @@
+<div class="container pad-top">
+  <table class="table stocktable">
+      <tr>
+          <td><h3>Details for {{stock.name}}</h3></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>ID</td>
+          <td>{{stock.id}}</td>
+      </tr>
+      <tr>
+          <td>Name</td>
+          <td>{{stock.name}}</td>
+      </tr>
+      <tr>
+          <td>Current Price</td>
+          <td>{{stock.currentPrice}}</td>
+      </tr>
+      <tr>
+          <td>Last Updated</td>
+          <td>{{stock.lastUpdate}}</td>
+      </tr>
+  </table>
+  <div>
+      <a class="btn btn-primary" ui-sref="editStock({id:stock.id})">Edit</a>
+  </div>
+</div>
